@@ -17,9 +17,9 @@
 
 ### Contact Me :
 
-<a href="https://www.linkedin.com/in/kamal-bahaa-13ba2427b/" target="_blank"><img src="https://img.shields.io/badge/-Kamal%20Bahaa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+201028289561" target="_blank"><img src="https://img.shields.io/badge/-Kamal%20Bahaa-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:kamalbahaa53@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Kamal%20Bahaa-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://www.linkedin.com/in/kamal-bahaa-13ba2427b/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/+201028289561" target="_blank"><img src="https://img.shields.io/badge/-WhatsAPP-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="mailto:kamalbahaa53@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,3 +30,8 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamal-bahaa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kamal-bahaa" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=kamal-bahaa&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=kamal-bahaa&style=for-the-badge">
+</a>
