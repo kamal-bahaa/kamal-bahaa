@@ -11,7 +11,7 @@
 </p>
 
 
-- 🎓 Sophomore at Faculty of Computer Science and Information Systems at Ain Shams university
+- 🎓 Computer Science Student at Ain Shams University
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills
 - 💬 Ask me about <strong>C++, OOP, Data structure and Algorithms </strong>
 
