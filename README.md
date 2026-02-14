@@ -27,7 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
-![Mysql](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
